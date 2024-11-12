@@ -36,6 +36,7 @@
 
         .col p{
             margin:0px auto; 
+	    padding:4px;
             width:90%;
             max-width:512px;
             height: 480px; /* I need to give heigt to make it visible? */
